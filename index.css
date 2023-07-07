@@ -1,0 +1,34 @@
+h1 {
+    color:aqua;
+    height:80px;
+    width:100%;
+    text-align: center;
+}
+img {
+    border-radius: 50px;
+    height: 195px;
+    width: 130px;
+    float: left;
+
+}
+h2{
+    color: blue;
+    height: 80px;
+    width: 60px;
+}
+text {
+    color: black;
+    height: 20;
+    width: 20;
+    text-align: right;
+    float: right;
+}
+.name  {
+text-align: center;
+}
+.h3 {
+    text-align: center;
+}
+#button{
+    
+}
