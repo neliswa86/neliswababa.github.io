@@ -1,5 +1,5 @@
 h1 {
-    color:aqua;
+    color:rgb(10, 10, 10);
     height:80px;
     width:100%;
     text-align: center;
@@ -12,7 +12,7 @@ img {
 
 }
 h2{
-    color: blue;
+    color: rgb(10, 10, 10);
     height: 80px;
     width: 60px;
 }
@@ -31,4 +31,10 @@ text-align: center;
 }
 #button{
     
+}
+body{
+background: url('IMG-20230707-WA0009.jpg');
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
 }
